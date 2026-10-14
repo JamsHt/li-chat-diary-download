@@ -1,7 +1,7 @@
 李的聊天日记 · Windows 桌面应用
 构建日期：2026-10-14
 
-安装文件：李的聊天日记.exe
+安装文件：LiChatDiary.exe
 平台：Windows x64（Windows 10 及以上）
 软件免费使用；模型 API 和可选联网检索费用由用户自行承担。
 
