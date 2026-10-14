@@ -8,7 +8,7 @@
 
 ## 下载
 
-**[下载「李的聊天日记.exe」](https://github.com/JamsHt/li-chat-diary-download/releases/latest/download/%E6%9D%8E%E7%9A%84%E8%81%8A%E5%A4%A9%E6%97%A5%E8%AE%B0.exe)**
+**[下载「LiChatDiary.exe」](https://github.com/JamsHt/li-chat-diary-download/releases/latest/download/LiChatDiary.exe)**
 
 [查看下载页面](https://github.com/JamsHt/li-chat-diary-download/releases/latest) · [使用说明](使用说明.txt) · [SHA-256 校验](SHA256SUMS.txt)
 
@@ -29,7 +29,7 @@
 
 退出应用后复制整个数据目录可作完整备份。日记正文和导出档案没有额外加密，密钥配置绑定原 Windows 账户。更新时关闭程序，再运行新安装包，继续使用原数据目录。
 
-当前安装包未进行代码签名，Windows 可能显示未知发布者；请从本仓库下载并核对校验文件。请注意：GitHub 自动提供的 `Source code` 压缩包只包含本下载仓库的说明文件，安装软件请下载 **李的聊天日记.exe**。
+当前安装包未进行代码签名，Windows 可能显示未知发布者；请从本仓库下载并核对校验文件。请注意：GitHub 自动提供的 `Source code` 压缩包只包含本下载仓库的说明文件，安装软件请下载 **LiChatDiary.exe**。
 
 ## 关于本仓库
 
